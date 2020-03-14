@@ -1,0 +1,593 @@
+,City,Cloudiness,Country,Humidity,Lat,Lng,Max Temp,Wind Speed
+kodiak,kodiak,40,US,60,57.79,-152.41,39.2,11.41
+jamestown,jamestown,1,US,29,42.1,-79.24,53.6,13.87
+senekal,senekal,0,ZA,40,-28.32,27.62,57.27,6.98
+saskylakh,saskylakh,84,RU,96,71.92,114.08,-22.65,3.27
+rikitea,rikitea,35,PF,83,-23.12,-134.97,78.87,13
+bredasdorp,bredasdorp,100,ZA,82,-34.53,20.04,66.2,10.29
+tuatapere,tuatapere,69,NZ,70,-46.13,167.68,71.01,7
+katsuura,katsuura,75,JP,82,35.13,140.3,63,13.87
+mataura,mataura,7,NZ,70,-46.19,168.86,71.01,7
+toora-khem,toora-khem,98,RU,84,52.47,96.11,9.77,2.95
+kamyshin,kamyshin,40,RU,81,50.1,45.42,38.07,8.14
+new norfolk,new norfolk,75,AU,51,-42.78,147.06,61,11.41
+georgetown,georgetown,20,MY,79,5.41,100.34,86,4.7
+punta arenas,punta arenas,26,CL,70,-53.15,-70.92,46.4,5.82
+jiazi,jiazi,32,CN,62,22.88,116.07,79.61,9.93
+punta alta,punta alta,0,AR,62,-38.88,-62.07,65.32,10.71
+port blair,port blair,0,IN,65,11.67,92.75,79.84,9.44
+vaini,vaini,75,TO,74,-21.2,-175.2,82.4,6.93
+albany,albany,20,US,59,42.6,-73.97,41,5.23
+wamba,wamba,100,NG,15,8.93,8.6,75.07,3.15
+ushuaia,ushuaia,75,AR,81,-54.8,-68.3,46.4,18.34
+winsum,winsum,75,NL,93,53.33,6.52,45,9.17
+tiksi,tiksi,100,RU,92,71.69,128.87,-19.82,2.98
+pevek,pevek,100,RU,83,69.7,170.31,-4.94,4.99
+kapaa,kapaa,20,US,60,22.08,-159.32,80.6,24.16
+rognan,rognan,75,NO,86,67.1,15.39,37.99,17.22
+atuona,atuona,0,PF,66,-9.8,-139.03,82.04,11.32
+carnarvon,carnarvon,16,AU,74,-24.87,113.63,80.6,16.11
+laguna,laguna,40,US,71,38.42,-121.42,57.2,5.82
+chokurdakh,chokurdakh,98,RU,95,70.63,147.92,-8.34,10.78
+kuloy,kuloy,100,RU,98,61.03,42.49,30.96,1.3
+anuradhapura,anuradhapura,3,LK,70,8.36,80.42,80.1,7.4
+linhares,linhares,24,BR,96,-19.39,-40.07,70.95,3.67
+puerto ayora,puerto ayora,31,EC,100,-0.74,-90.35,80.01,1.01
+busselton,busselton,0,AU,30,-33.65,115.33,82.99,8.63
+panaba,panaba,60,MX,65,21.28,-88.27,71.74,11.21
+ayan,ayan,70,RU,69,56.45,138.17,16.86,3.98
+lavrentiya,lavrentiya,0,RU,91,65.58,-171,-7.4,1.19
+bima,bima,75,ID,76,-8.47,118.72,83.71,2.59
+salalah,salalah,0,OM,64,17.02,54.09,69.8,4.7
+ponta do sol,ponta do sol,20,PT,36,32.67,-17.1,62.6,14.99
+erzin,erzin,73,TR,100,36.96,36.2,55.99,1.12
+tuktoyaktuk,tuktoyaktuk,75,CA,75,69.45,-133.04,-20.2,8.05
+norman wells,norman wells,75,CA,65,65.28,-126.83,6.8,3.36
+ribeira grande,ribeira grande,96,PT,96,38.52,-28.7,60.42,12.01
+mbaiki,mbaiki,7,CF,84,3.87,17.99,70.79,3.49
+barrow,barrow,90,US,76,71.29,-156.79,-11.2,6.93
+batagay-alyta,batagay-alyta,96,RU,93,67.8,130.41,-15.3,1.19
+komsomolskiy,komsomolskiy,40,UZ,80,40.43,71.72,35.6,1.72
+ola,ola,100,RU,91,59.58,151.28,16.45,7.2
+kahului,kahului,90,US,60,20.89,-156.47,71.6,12.75
+kharp,kharp,98,RU,92,66.8,65.81,0.55,11.05
+somerset east,somerset east,63,ZA,93,-32.72,25.59,59.32,2.55
+saint george,saint george,1,US,38,37.1,-113.58,61,4.47
+belyy yar,belyy yar,100,RU,68,53.6,91.39,24.8,15.66
+bluff,bluff,19,NZ,70,-46.6,168.33,71.01,7
+cockburn town,cockburn town,82,TC,71,21.46,-71.14,72.14,29.93
+hermanus,hermanus,90,ZA,88,-34.42,19.23,64.99,4
+molokovo,molokovo,11,RU,94,58.17,36.76,29.64,2.75
+hobart,hobart,75,AU,51,-42.88,147.33,61,11.41
+constitucion,constitucion,0,CL,73,-35.33,-72.42,55.42,5.79
+bethel,bethel,1,US,36,41.37,-73.41,53.01,10.29
+gat,gat,65,IL,71,31.61,34.76,64,2.24
+butaritari,butaritari,100,KI,76,3.07,172.79,85.1,14.94
+clyde river,clyde river,90,CA,74,70.47,-68.59,-22,27.51
+hasaki,hasaki,75,JP,100,35.73,140.83,57.2,17.22
+hirara,hirara,75,JP,88,24.8,125.28,77,21.92
+filingue,filingue,0,NE,7,14.35,3.32,77.5,8.52
+pacific grove,pacific grove,1,US,66,36.62,-121.92,55.99,13.96
+hilo,hilo,1,US,44,19.73,-155.09,78.8,10.29
+khatanga,khatanga,100,RU,94,71.97,102.5,-22.83,4.76
+axim,axim,0,GH,90,4.87,-2.24,78.13,3.02
+mahebourg,mahebourg,75,MU,100,-20.41,57.7,79,12.75
+nouadhibou,nouadhibou,20,MR,93,20.93,-17.03,62.6,13.87
+inuvik,inuvik,40,CA,63,68.35,-133.72,-7.6,4.7
+mirzapur,mirzapur,0,IN,82,25.15,82.58,60.8,6.93
+luanda,luanda,40,AO,88,-8.84,13.23,77,3.36
+qaanaaq,qaanaaq,70,GL,99,77.48,-69.36,-26.01,4.12
+nanortalik,nanortalik,69,GL,81,60.14,-45.24,24.71,2.68
+namibe,namibe,0,AO,86,-15.2,12.15,75.7,5.82
+yellowknife,yellowknife,20,CA,84,62.46,-114.35,0,4.7
+bambanglipuro,bambanglipuro,100,ID,93,-7.95,110.28,75.9,9.42
+bengkulu,bengkulu,95,ID,80,-3.8,102.27,80.49,4.43
+nhulunbuy,nhulunbuy,90,AU,94,-12.23,136.77,78.8,2.24
+klamath falls,klamath falls,90,US,69,42.22,-121.78,39.2,9.17
+cape town,cape town,20,ZA,77,-33.93,18.42,64.99,20.8
+sokolow podlaski,sokolow podlaski,43,PL,88,52.41,22.25,32,4.85
+chute-aux-outardes,chute-aux-outardes,90,CA,28,49.12,-68.4,23,5.82
+batagay,batagay,100,RU,90,67.63,134.63,-10.01,3.69
+beyneu,beyneu,9,KZ,63,45.32,55.2,32.36,9.06
+sorland,sorland,100,NO,86,67.67,12.69,42.93,29.62
+reforma,reforma,91,MX,66,18.1,-91.02,73,7.36
+kaka,kaka,0,TM,47,37.35,59.61,35.22,0.65
+nikolskoye,nikolskoye,0,RU,80,59.7,30.79,30.2,4.47
+monrovia,monrovia,26,LR,87,6.3,-10.8,80.22,2.15
+maymyo,maymyo,20,MM,64,22.03,96.47,68,3.36
+castro,castro,2,BR,99,-24.79,-50.01,58.66,5.68
+aksu,aksu,100,CN,50,41.12,80.26,36.79,6.64
+kenai,kenai,90,US,79,60.55,-151.26,30,8.05
+kavaratti,kavaratti,59,IN,67,10.57,72.64,82.27,6.4
+vostok,vostok,100,RU,96,46.49,135.88,29.14,9.24
+faanui,faanui,45,PF,67,-16.48,-151.75,83.68,3.96
+dikson,dikson,100,RU,74,73.51,80.55,-16.56,6.26
+namwala,namwala,0,ZM,96,-15.75,26.44,60.94,3.24
+saint-philippe,saint-philippe,91,RE,78,-21.36,55.77,78.8,28.86
+harper,harper,0,LR,94,4.38,-7.72,77,1.3
+bandarbeyla,bandarbeyla,99,SO,69,9.49,50.81,77.56,10.38
+kloulklubed,kloulklubed,75,PW,70,7.04,134.26,84.2,11.41
+tshikapa,tshikapa,100,CD,97,-6.42,20.8,69.53,2.44
+upernavik,upernavik,100,GL,96,72.79,-56.15,-9.08,13.76
+port alfred,port alfred,100,ZA,95,-33.59,26.89,64,3
+portland,portland,75,US,49,45.52,-122.68,48.2,3.36
+taunggyi,taunggyi,0,MM,31,20.78,97.03,79.54,2.44
+banikoara,banikoara,0,BJ,13,11.3,2.44,77.59,3.44
+cherskiy,cherskiy,100,RU,77,68.75,161.3,0.27,11.21
+waipawa,waipawa,34,NZ,68,-41.41,175.52,69.8,27.51
+saint-pierre,saint-pierre,96,RE,78,-21.34,55.48,78.8,28.86
+coihaique,coihaique,0,CL,71,-45.58,-72.07,50,3.36
+ketchikan,ketchikan,75,US,69,55.34,-131.65,39.2,13.87
+alta,alta,100,NO,69,69.97,23.27,37.4,16.11
+sept-iles,sept-iles,75,CA,38,50.2,-66.38,9,4.7
+thompson,thompson,90,CA,57,55.74,-97.86,-7.6,11.41
+skjervoy,skjervoy,100,NO,67,70.03,20.97,36.88,4.63
+yavatmal,yavatmal,56,IN,32,20.4,78.13,75.45,10.22
+port augusta,port augusta,100,AU,46,-32.5,137.77,81,11.41
+iqaluit,iqaluit,90,CA,68,63.75,-68.51,-14.01,38.03
+ust-ordynskiy,ust-ordynskiy,100,RU,56,52.8,104.75,15.8,12.91
+port elizabeth,port elizabeth,48,ZA,88,-33.92,25.57,62.6,6.93
+salym,salym,100,RU,96,60.06,71.48,27.19,7.09
+majene,majene,79,ID,62,-3.54,118.97,87.06,4.5
+namatanai,namatanai,99,PG,77,-3.67,152.43,83.32,9.86
+hambantota,hambantota,0,LK,100,6.12,81.12,73.4,2.24
+vao,vao,75,NC,75,-22.67,167.48,80.92,10.27
+kaitangata,kaitangata,0,NZ,82,-46.28,169.85,60.3,8.05
+manaskent,manaskent,75,RU,93,42.73,47.68,41,13.42
+severo-kurilsk,severo-kurilsk,100,RU,96,50.68,156.12,28.8,13.58
+talas,talas,64,TR,69,38.69,35.55,39.2,2.24
+pasighat,pasighat,99,IN,70,28.07,95.33,64.42,2.82
+bambous virieux,bambous virieux,75,MU,100,-20.34,57.76,79,12.75
+qasigiannguit,qasigiannguit,28,GL,49,68.82,-51.19,1.4,3.36
+mehran,mehran,0,IR,34,33.12,46.16,48.2,4.7
+coos bay,coos bay,90,US,81,43.37,-124.22,48.2,4.7
+kruisfontein,kruisfontein,42,ZA,88,-34,24.73,61.16,2.35
+kaihua,kaihua,0,CN,32,23.37,104.28,70.81,5.7
+avarua,avarua,100,CK,83,-21.21,-159.78,84.2,11.41
+ostrovnoy,ostrovnoy,100,RU,91,68.05,39.51,27.55,27.58
+airai,airai,100,TL,90,-8.93,125.41,69.96,3.56
+eydhafushi,eydhafushi,33,MV,64,5.1,73.07,82.49,6.29
+san quintin,san quintin,0,MX,82,30.48,-115.95,58.53,11.81
+umm lajj,umm lajj,0,SA,22,25.02,37.27,70.25,15.52
+east london,east london,99,ZA,84,-33.02,27.91,72.12,10.27
+iquique,iquique,47,CL,69,-20.22,-70.14,73.4,11.41
+malinovoye ozero,malinovoye ozero,99,RU,74,51.68,79.78,16.79,15.12
+tura,tura,0,IN,44,25.52,90.22,77.68,1.61
+urubicha,urubicha,89,BO,53,-15.38,-62.95,83.75,3.53
+hita,hita,75,JP,62,33.32,130.93,62.01,13.87
+richards bay,richards bay,0,ZA,84,-28.78,32.04,71.44,9.01
+north adams,north adams,1,US,59,42.7,-73.11,39.99,3.36
+saint-michel-des-saints,saint-michel-des-saints,100,CA,7,46.68,-73.92,33.01,4
+aasiaat,aasiaat,100,GL,78,68.71,-52.87,-3.64,2.95
+denpasar,denpasar,20,ID,89,-8.65,115.22,84.2,2.24
+santa cruz,santa cruz,16,BO,83,-17.8,-63.17,80.6,5.82
+guerrero negro,guerrero negro,100,MX,63,27.98,-114.06,59.95,7.38
+eldorado,eldorado,33,BR,85,-23.79,-54.28,68.83,3.49
+sorong,sorong,33,ID,55,-0.88,131.25,89.8,5.26
+hamilton,hamilton,1,US,39,39.18,-84.53,55.4,9.46
+la ronge,la ronge,75,CA,76,55.1,-105.28,-7.6,4.7
+flinders,flinders,75,AU,63,-34.58,150.86,73.99,13.87
+chumikan,chumikan,99,RU,76,54.72,135.31,18.7,12.35
+tefe,tefe,3,BR,85,-3.35,-64.71,76.78,2.01
+lata,lata,20,PT,100,40.16,-8.33,50,4.7
+forest lake,forest lake,1,US,75,45.28,-92.99,52,8.05
+along,along,96,IN,89,28.17,94.77,57.29,2.46
+eenhana,eenhana,0,NA,82,-17.47,16.33,68,3.36
+egvekinot,egvekinot,0,RU,87,66.32,-179.17,-8.97,0.25
+kavieng,kavieng,70,PG,78,-2.57,150.8,83.79,13.09
+gisborne,gisborne,64,NZ,41,-38.65,178,75.99,4
+dunedin,dunedin,0,NZ,76,-45.87,170.5,61.57,16.31
+luba,luba,20,GQ,94,3.46,8.55,78.8,2.24
+walvis bay,walvis bay,0,NA,88,-22.96,14.51,64,8.05
+yantal,yantal,100,RU,89,56.85,105.25,13.75,12.08
+sabang,sabang,100,ID,70,5.89,95.32,83.95,9.01
+canutama,canutama,33,BR,97,-6.53,-64.38,73.13,2.66
+carutapera,carutapera,100,BR,83,-1.2,-46.02,81.39,17.65
+ahipara,ahipara,94,NZ,100,-35.17,173.17,71.01,16.8
+tessalit,tessalit,47,ML,14,20.2,1.01,68.18,12.26
+tarpon springs,tarpon springs,1,US,63,28.15,-82.76,66.2,5.82
+pisco,pisco,75,PE,78,-13.7,-76.22,75.2,12.75
+camacha,camacha,20,PT,82,33.08,-16.33,62.6,8.05
+berlevag,berlevag,100,NO,80,70.86,29.09,34.99,16.4
+souillac,souillac,75,MU,100,-20.52,57.52,79,12.75
+frolovo,frolovo,88,RU,91,49.77,43.66,39,10.6
+rongcheng,rongcheng,100,CN,93,30.63,117.85,62.01,6.06
+aswan,aswan,0,EG,25,24.09,32.91,64.4,13.87
+montmagny,montmagny,20,FR,87,48.97,2.35,42.8,9.17
+embu,embu,75,BR,88,-23.65,-46.85,68,5.82
+tete,tete,12,MZ,99,-16.16,33.59,67.01,1.72
+hithadhoo,hithadhoo,43,MV,66,-0.6,73.08,84.31,11.61
+barahona,barahona,65,DO,71,18.21,-71.1,79.11,29.75
+merauke,merauke,97,ID,88,-8.47,140.33,78.69,7.23
+matagami,matagami,90,CA,84,49.75,-77.63,6.8,6.93
+bonnyville,bonnyville,75,CA,65,54.27,-110.73,3.2,2.24
+tasiilaq,tasiilaq,100,GL,52,65.61,-37.64,19.4,18.34
+thinadhoo,thinadhoo,67,MV,68,0.53,72.93,83.5,9.08
+sangar,sangar,98,RU,89,63.92,127.47,-13.52,7.63
+russell,russell,1,US,87,32.35,-85.2,55.4,5.48
+mar del plata,mar del plata,0,AR,68,-38,-57.56,66.2,13.87
+kothi,kothi,0,IN,36,24.75,80.78,68.74,1.9
+morehead,morehead,1,US,24,37.27,-87.18,57.2,5.82
+salamiyah,salamiyah,15,SY,58,35.01,37.05,53.96,5.97
+olbia,olbia,53,IT,89,40.92,9.49,43.34,7.76
+copiapo,copiapo,0,CL,82,-27.37,-70.33,62.6,3.36
+trinidad,trinidad,44,BO,77,-14.83,-64.9,78.91,3.11
+kidal,kidal,4,ML,12,18.44,1.41,69.91,13.58
+reshetylivka,reshetylivka,100,UA,88,49.56,34.08,47.86,1.97
+naspur,naspur,0,IN,66,18.83,79.45,77.95,2.86
+durban,durban,23,ZA,83,-29.86,31.03,73.99,4.7
+sinazongwe,sinazongwe,0,ZM,78,-17.26,27.46,71.69,3.18
+gaoual,gaoual,0,GN,77,11.75,-13.2,67.35,2.1
+upata,upata,78,VE,78,8.01,-62.4,70.65,6.24
+sobolevo,sobolevo,30,RU,90,54.43,31.9,37.24,4.05
+pangkalanbuun,pangkalanbuun,35,ID,52,-2.68,111.62,91.49,3.78
+san policarpo,san policarpo,46,PH,72,12.18,125.51,81.72,9.22
+cidreira,cidreira,0,BR,87,-30.18,-50.21,74.23,21.56
+port macquarie,port macquarie,90,AU,82,-31.43,152.92,71.01,6.93
+ilulissat,ilulissat,28,GL,49,69.22,-51.1,1.4,3.36
+coquimbo,coquimbo,0,CL,93,-29.95,-71.34,60.8,2.24
+tautira,tautira,20,PF,62,-17.73,-149.15,89.6,8.05
+meulaboh,meulaboh,0,ID,79,4.14,96.13,82.17,4.27
+zonguldak,zonguldak,100,TR,61,41.25,31.83,48.25,5.39
+port lincoln,port lincoln,100,AU,58,-34.73,135.87,69.46,13.09
+manta,manta,40,EC,78,-0.95,-80.73,80.6,3.36
+bathsheba,bathsheba,20,BB,69,13.22,-59.52,78.8,10.29
+lingao,lingao,0,CN,70,19.91,109.69,78.17,3.51
+grand bend,grand bend,90,CA,72,43.32,-81.75,51.01,13.87
+taltal,taltal,5,CL,88,-25.4,-70.48,60.21,0.43
+taoudenni,taoudenni,100,ML,13,22.68,-3.98,69.22,12.8
+arraial do cabo,arraial do cabo,26,BR,79,-22.97,-42.03,75.74,8.52
+raga,raga,100,SS,21,8.46,25.68,70.56,1.97
+manaus,manaus,97,BR,78,-3.1,-60.02,82.4,3.36
+naze,naze,75,JP,68,28.37,129.48,71.6,17.22
+chuy,chuy,5,UY,82,-33.7,-53.46,71.24,6.22
+sitka,sitka,90,US,96,57.05,-135.33,35.6,11.41
+biryusinsk,biryusinsk,100,RU,90,55.96,97.82,19.74,16.71
+jiangkou,jiangkou,40,CN,88,25.49,119.2,64.4,6.71
+roma,roma,1,US,74,43.21,-75.46,43,3.36
+bridlington,bridlington,0,GB,86,54.08,-0.19,42.01,6.93
+zemio,zemio,100,CF,98,5.03,25.14,66.88,3.47
+pantai remis,pantai remis,20,MY,83,4.46,100.63,86,2.24
+vestmannaeyjar,vestmannaeyjar,63,IS,67,63.44,-20.27,33.84,4.07
+pemangkat,pemangkat,32,ID,72,1.17,108.97,83.97,4.32
+luganville,luganville,40,VU,70,-15.53,167.17,87.8,6.93
+yaring,yaring,20,TH,74,6.87,101.37,84.2,5.82
+petauke,petauke,0,ZM,92,-14.24,31.33,64.31,6.02
+maniitsoq,maniitsoq,22,GL,35,65.42,-52.9,17.51,8.21
+marsh harbour,marsh harbour,99,BS,69,26.54,-77.06,66.33,26.93
+kandrian,kandrian,100,PG,73,-6.22,149.55,85.59,10.51
+vardo,vardo,100,NO,93,70.37,31.11,33.93,19.01
+clarence town,clarence town,75,AU,64,-32.58,151.78,73.99,16.11
+the valley,the valley,20,AI,69,18.22,-63.06,78.01,8.05
+geraldton,geraldton,0,AU,51,-28.77,114.6,87.01,6.93
+fortuna,fortuna,90,US,70,40.6,-124.16,51.8,1.59
+velingara,velingara,57,SN,71,13.15,-14.12,72.57,5.93
+gorontalo,gorontalo,100,ID,58,0.54,123.06,89.46,2.3
+murgab,murgab,0,TM,69,37.5,61.97,33.8,2.24
+la ligua,la ligua,0,CL,87,-32.45,-71.23,60.8,3.36
+goure,goure,0,NE,8,13.98,10.27,75.09,8.01
+aviles,aviles,75,ES,71,43.55,-5.92,51.8,10.29
+sorsk,sorsk,100,RU,84,54,90.25,11.14,3.85
+barao de melgaco,barao de melgaco,26,BR,74,-16.19,-55.97,78.8,2.24
+svetlaya,svetlaya,100,RU,74,46.54,138.33,33.57,11.34
+tamale,tamale,63,GH,37,9.4,-0.84,87.04,7.85
+yendi,yendi,77,GH,45,9.44,-0.01,84.4,5.44
+gornopravdinsk,gornopravdinsk,100,RU,96,60.05,69.9,27.37,7.45
+ambilobe,ambilobe,100,MG,92,-13.2,49.05,75.69,5.21
+tianpeng,tianpeng,40,CN,50,30.99,103.94,61,4.47
+puksoozero,puksoozero,0,RU,92,62.59,40.61,20.82,3.24
+kodinsk,kodinsk,100,RU,91,58.69,99.18,24.57,16.75
+nasipit,nasipit,30,PH,60,8.97,125.29,84.54,6.06
+sabalgarh,sabalgarh,0,IN,39,26.25,77.4,66.72,4.05
+yulara,yulara,0,AU,21,-25.24,130.99,89.6,14.99
+longyearbyen,longyearbyen,20,SJ,76,78.22,15.64,-4,6.93
+kiama,kiama,75,AU,63,-34.68,150.87,73.99,13.87
+isangel,isangel,40,VU,59,-19.55,169.27,91.4,5.82
+beboto,beboto,0,TD,18,8.27,16.94,79.18,7.02
+tabas,tabas,69,IR,15,33.6,56.92,46.4,4.7
+tayshet,tayshet,100,RU,90,55.93,98,19.74,16.71
+ponta delgada,ponta delgada,75,PT,93,37.73,-25.67,64,7.63
+najran,najran,100,SA,23,17.49,44.13,62.6,4.27
+klaksvik,klaksvik,100,FO,82,62.23,-6.59,35.6,18.34
+maningrida,maningrida,100,AU,86,-12.07,134.27,78.39,5.44
+pangody,pangody,97,RU,93,65.85,74.49,4.66,14.92
+zeya,zeya,0,RU,74,53.75,127.27,12.22,8.9
+mahon,mahon,99,ES,93,39.89,4.27,50,3.36
+urumqi,urumqi,0,CN,67,43.8,87.6,19.4,1.74
+smolenka,smolenka,100,RU,40,52.14,113.5,14,8.95
+anadyr,anadyr,6,RU,76,64.75,177.48,-11,6.71
+jaciara,jaciara,97,BR,83,-15.97,-54.97,70.68,2.06
+belgrade,belgrade,90,RS,93,44.8,20.47,41,5.82
+barcelos,barcelos,90,PT,100,41.54,-8.62,46.99,0.94
+forbes,forbes,0,AU,42,-33.38,148.02,81,1.99
+bayangol,bayangol,17,RU,60,50.7,103.47,11.93,3.04
+saint-augustin,saint-augustin,98,CA,84,51.23,-58.65,1.4,25.68
+saldanha,saldanha,1,ZA,82,-33.01,17.94,60.8,8.05
+dondo,dondo,14,MZ,98,-19.61,34.74,69.57,5.01
+bilma,bilma,0,NE,23,18.69,12.92,69.08,19.51
+lalmohan,lalmohan,0,BD,55,22.34,90.74,78.71,2.75
+kirakira,kirakira,91,SB,73,-10.45,161.92,84.07,5.28
+coxim,coxim,0,BR,64,-18.51,-54.76,74.44,3.96
+trenggalek,trenggalek,100,ID,84,-8.05,111.72,76.12,5.7
+blackwater,blackwater,49,AU,61,-23.58,148.88,85.28,9.24
+nago,nago,90,JP,69,26.59,127.98,77,16.11
+banda aceh,banda aceh,52,ID,68,5.56,95.32,85.17,3.67
+tarakan,tarakan,49,ID,77,3.3,117.63,82.62,3.51
+atambua,atambua,100,ID,85,-9.11,124.89,77.34,0.96
+dali,dali,7,CN,51,25.7,100.18,57.02,5.23
+charlestown,charlestown,75,AU,64,-32.95,151.67,73.99,16.11
+celestun,celestun,0,MX,71,20.87,-90.4,75.25,25.14
+nioro,nioro,100,GM,45,13.35,-15.75,71.69,5.26
+turbat,turbat,0,PK,52,26,63.04,65.8,0.34
+nagtipunan,nagtipunan,13,PH,58,16.22,121.6,83.25,4.81
+sal rei,sal rei,40,CV,83,16.18,-22.92,69.8,12.75
+praia,praia,41,CV,73,14.92,-23.51,71.6,13.87
+victoria,victoria,40,HK,83,22.29,114.16,77,16.11
+cabo san lucas,cabo san lucas,90,MX,60,22.89,-109.91,77,5.01
+mehamn,mehamn,100,NO,92,71.04,27.85,28.33,10.58
+port hedland,port hedland,0,AU,56,-20.32,118.57,93.2,6.93
+marsa matruh,marsa matruh,100,EG,93,31.35,27.25,55.4,14.67
+evensk,evensk,100,RU,89,61.95,159.23,-0.76,2.86
+ust-tsilma,ust-tsilma,100,RU,92,65.44,52.15,17.6,5.95
+marfino,marfino,75,RU,86,55.7,37.38,39.2,2.24
+jackson,jackson,90,US,81,42.42,-122.83,46.4,5.82
+basco,basco,0,PH,85,20.45,121.97,79.93,14
+zunyi,zunyi,61,CN,63,27.69,106.91,60.8,9.91
+damietta,damietta,40,EG,93,31.42,31.81,59,11.41
+matara,matara,9,LK,67,5.95,80.54,81.61,8.25
+nichinan,nichinan,75,JP,62,31.6,131.37,62.6,5.82
+bombay,bombay,0,IN,73,19.01,72.85,75.2,3.36
+los llanos de aridane,los llanos de aridane,0,ES,77,28.66,-17.92,71.01,11.41
+cervo,cervo,69,ES,1,43.67,-7.41,55,3.69
+anito,anito,0,PH,79,12.45,125.29,80.26,14.47
+shingu,shingu,9,JP,67,33.73,135.98,60.8,1.12
+boende,boende,100,CD,96,-0.22,20.87,70.34,4.07
+mokobeng,mokobeng,87,BW,76,-23,27.67,64.54,5.23
+srednyaya akhtuba,srednyaya akhtuba,20,RU,100,48.71,44.87,35.6,8.95
+key west,key west,75,US,64,24.56,-81.78,70,11.41
+lazaro cardenas,lazaro cardenas,0,MX,83,17.96,-102.2,73.06,0.85
+inndyr,inndyr,75,NO,86,67.03,14.03,37.99,17.22
+collie,collie,0,AU,29,-33.37,116.15,82.99,7.94
+noumea,noumea,100,NC,59,-22.28,166.46,89.6,13.87
+chapais,chapais,90,CA,77,49.78,-74.85,6.8,8.05
+lebu,lebu,76,CL,80,-37.62,-73.65,54.37,6.51
+shelburne,shelburne,1,CA,45,44.08,-80.2,48.99,18.34
+pokhara,pokhara,0,NP,38,28.23,83.98,67.12,1.03
+lorengau,lorengau,100,PG,79,-2.02,147.27,83.07,14.85
+iwanai,iwanai,100,JP,89,42.97,140.51,42.21,1.74
+berdigestyakh,berdigestyakh,95,RU,92,62.1,126.7,-4.94,3.85
+newcastle,newcastle,75,AU,64,-32.93,151.78,73.99,16.11
+wardha,wardha,75,IN,49,20.75,78.62,71.6,3.36
+marsaxlokk,marsaxlokk,40,MT,81,35.84,14.54,52,4.7
+riyadh,riyadh,0,SA,50,24.69,46.72,55.4,5.82
+tazovskiy,tazovskiy,80,RU,96,67.47,78.7,-7.49,8.68
+coripata,coripata,40,BO,70,-16.3,-67.6,42.8,5.82
+tilichiki,tilichiki,88,RU,90,60.47,166.1,5.18,2.77
+kautokeino,kautokeino,100,NO,99,69.01,23.04,33.06,19.55
+alegrete,alegrete,0,BR,37,-29.78,-55.79,75.2,7.87
+paamiut,paamiut,100,GL,59,61.99,-49.67,14.4,3.2
+warmbad,warmbad,99,NA,37,-28.45,18.73,75.16,3.15
+rivadavia,rivadavia,0,AR,30,-33.19,-68.46,84.2,8.05
+cuiluan,cuiluan,0,CN,69,47.72,128.65,22.98,5.41
+huarmey,huarmey,2,PE,66,-10.07,-78.15,73.69,1.07
+havoysund,havoysund,20,NO,80,71,24.66,33.8,12.75
+nadym,nadym,82,RU,91,65.53,72.52,1.81,16.78
+tecoanapa,tecoanapa,0,MX,86,16.52,-98.75,72.99,0.87
+cairns,cairns,9,AU,66,-16.92,145.77,89.6,4.7
+skelleftea,skelleftea,100,SE,93,64.75,20.95,39,17.22
+bertoua,bertoua,6,CM,62,4.58,13.68,71.13,2.82
+torbay,torbay,75,CA,85,47.67,-52.73,23,11.41
+adrar,adrar,86,MR,17,20.5,-10.07,71.02,11.9
+chiknayakanhalli,chiknayakanhalli,0,IN,61,13.42,76.62,75,5.57
+santa isabel do rio negro,santa isabel do rio negro,1,BR,68,-0.41,-65.02,77.92,2.13
+uray,uray,100,RU,96,60.12,64.78,28.24,7.25
+navalmoral de la mata,navalmoral de la mata,70,ES,76,39.89,-5.54,43.43,0.56
+boulsa,boulsa,64,BF,11,12.67,-0.58,74.57,4.74
+hella,hella,75,NO,86,67.2,14.43,37.99,17.22
+labuhan,labuhan,38,ID,72,-6.88,112.21,84.9,7.72
+kenora,kenora,90,CA,72,49.82,-94.43,23,10.29
+bria,bria,12,CF,72,6.54,21.99,70.83,3.76
+alyangula,alyangula,40,AU,83,-13.85,136.42,82.4,6.93
+gillette,gillette,1,US,86,44.29,-105.5,30.99,4.7
+road town,road town,90,VG,69,18.42,-64.62,77,9.17
+udachnyy,udachnyy,8,RU,67,66.42,112.4,-25.6,4.47
+belaya gora,belaya gora,90,RU,93,68.53,146.42,-7.38,9.91
+puerto leguizamo,puerto leguizamo,75,CO,95,-0.19,-74.78,73.45,1.95
+rio gallegos,rio gallegos,75,AR,71,-51.62,-69.22,51.8,11.41
+ancud,ancud,75,CL,100,-41.87,-73.82,51.8,5.82
+oranjemund,oranjemund,29,NA,91,-28.55,16.43,61.47,16.28
+kovdor,kovdor,100,RU,96,67.57,30.48,33.64,17.38
+sinnamary,sinnamary,76,GF,71,5.38,-52.95,80.26,17.54
+ilheus,ilheus,75,BR,88,-14.79,-39.05,78.8,8.05
+marrakesh,marrakesh,4,MA,58,31.63,-8.01,53.6,4.7
+redmond,redmond,1,US,93,47.67,-122.12,44.01,5.82
+izberbash,izberbash,75,RU,93,42.57,47.86,41,13.42
+blind river,blind river,1,CA,65,46.18,-82.96,42.8,8.66
+dzilam gonzalez,dzilam gonzalez,24,MX,68,21.28,-88.93,74.14,23.15
+elko,elko,1,US,48,41,-115.5,44.6,6.91
+vanimo,vanimo,100,PG,78,-2.67,141.3,83.07,15.68
+koslan,koslan,26,RU,96,63.46,48.9,14.43,3.87
+dakar,dakar,100,SN,64,14.69,-17.44,73.4,18.34
+henties bay,henties bay,0,NA,94,-22.12,14.28,64,2.51
+brae,brae,63,GB,93,60.4,-1.35,42.8,9.17
+challakere,challakere,0,IN,56,14.32,76.65,76.53,10.36
+cayenne,cayenne,20,GF,78,4.93,-52.33,78.8,8.05
+jalu,jalu,67,LY,60,29.03,21.55,56.12,18.21
+ust-nera,ust-nera,100,RU,86,64.57,143.2,-4.81,5.32
+padang,padang,100,ID,62,-0.95,100.35,81.82,2.75
+nyurba,nyurba,100,RU,97,63.28,118.33,-10.08,6.4
+hami,hami,1,CN,51,42.8,93.45,23.74,4.43
+xining,xining,100,CN,57,36.62,101.77,24.19,8.86
+ternovka,ternovka,88,RU,85,51.68,41.64,44.96,6.69
+altay,altay,100,CN,69,47.87,88.12,7.29,1.14
+posse,posse,100,BR,94,-14.09,-46.37,71.15,3.02
+morondava,morondava,0,MG,75,-20.28,44.28,75.49,4.56
+beringovskiy,beringovskiy,53,RU,92,63.05,179.32,-5.85,4.09
+mount gambier,mount gambier,90,AU,59,-37.83,140.77,66.2,17.22
+dzhebariki-khaya,dzhebariki-khaya,100,RU,89,62.22,135.8,-5.67,0.98
+galveston,galveston,1,US,82,29.37,-94.97,64.99,17.22
+aripuana,aripuana,86,BR,98,-9.17,-60.63,71.94,0.83
+neya,neya,100,RU,94,58.3,43.87,30.78,5.3
+touros,touros,20,BR,94,-5.2,-35.46,75.2,2.24
+kamaishi,kamaishi,75,JP,66,39.27,141.88,55.4,2.24
+saint-joseph,saint-joseph,96,RE,78,-21.37,55.62,78.8,28.86
+pavlohrad,pavlohrad,100,UA,81,48.52,35.87,46.4,6.71
+vila franca do campo,vila franca do campo,75,PT,93,37.72,-25.43,64,7.63
+san juan,san juan,100,AR,27,-31.54,-68.54,83.32,10.07
+gouyave,gouyave,20,GD,78,12.16,-61.73,77,12.75
+san cristobal,san cristobal,75,VE,61,7.77,-72.22,82.4,2.24
+lagoa,lagoa,72,PT,92,39.05,-27.98,62.64,16.17
+kazachinskoye,kazachinskoye,100,RU,85,57.7,93.28,22.96,15.14
+eureka,eureka,75,US,50,40.8,-124.16,51.8,1.57
+fukue,fukue,75,JP,77,32.69,128.84,60.8,14.99
+apostolove,apostolove,98,UA,93,47.66,33.71,42.8,2.24
+kuusamo,kuusamo,90,FI,95,65.97,29.18,33.8,19.46
+murchison,murchison,86,NZ,62,-41.8,172.33,63.3,6.46
+tayga,tayga,75,RU,92,56.06,85.62,23,15.66
+presidencia roque saenz pena,presidencia roque saenz pena,0,AR,39,-26.79,-60.44,79.95,5.08
+mayo,mayo,1,US,65,38.89,-76.51,54,8.05
+sabzevar,sabzevar,0,IR,28,36.21,57.68,36.54,11.9
+asau,asau,90,RO,93,46.43,26.4,43,4.7
+malakal,malakal,100,SS,18,9.53,31.66,79.99,5.64
+ingleside,ingleside,1,US,82,27.88,-97.21,70,11.41
+micco,micco,75,US,63,27.88,-80.5,68,10.29
+xapuri,xapuri,80,BR,96,-10.65,-68.5,74.3,1.28
+sao joao da barra,sao joao da barra,0,BR,81,-21.64,-41.05,75.11,4.79
+luderitz,luderitz,0,NA,77,-26.65,15.16,66.2,21.92
+campos,campos,33,BR,95,-21.75,-41.3,68.13,2.33
+broken hill,broken hill,6,AU,24,-31.95,141.43,78.8,16.11
+fairbanks,fairbanks,90,US,85,64.84,-147.72,21.99,5.82
+constanta,constanta,100,RO,100,44.18,28.65,46.4,5.82
+trogir,trogir,0,HR,48,43.51,16.25,44.6,4.7
+sanchor,sanchor,4,IN,33,24.76,71.77,70.11,9.01
+rantepao,rantepao,98,ID,54,-2.97,119.9,85.35,1.7
+sabha,sabha,0,LY,36,27.04,14.43,50.34,10.49
+nome,nome,40,US,84,64.5,-165.41,-0.4,3.36
+veinticinco de mayo,veinticinco de mayo,100,AR,86,-35.43,-60.17,73,8.32
+luis correia,luis correia,100,BR,97,-2.88,-41.67,75.94,4.05
+vanavara,vanavara,100,RU,92,60.34,102.28,8.37,4.54
+wattegama,wattegama,13,LK,100,6.8,81.48,73.4,2.24
+grand gaube,grand gaube,75,MU,100,-20.01,57.66,79,12.75
+blagoyevo,blagoyevo,41,RU,96,63.37,47.92,15.82,4
+mombetsu,mombetsu,75,JP,56,44.35,143.35,42.8,3.36
+dolores,dolores,66,AR,62,-36.31,-57.68,65.1,12.75
+palma,palma,67,ES,70,39.57,2.65,54,3.36
+seoul,seoul,100,KR,37,37.57,126.98,57.2,3.36
+sao filipe,sao filipe,1,CV,83,14.9,-24.5,70.11,10.02
+olinda,olinda,20,BR,70,-8.01,-34.86,84.2,4.7
+marquette,marquette,5,US,98,46.53,-87.63,42.8,12.75
+opuwo,opuwo,0,NA,60,-18.06,13.84,65.93,4.5
+gibsons,gibsons,5,CA,88,49.4,-123.5,44.01,6.93
+esteli,esteli,5,NI,80,13.09,-86.35,69.04,6.08
+colares,colares,20,PT,93,38.8,-9.45,57,10.29
+teya,teya,100,RU,86,60.38,92.63,23.63,11.77
+mount isa,mount isa,0,AU,29,-20.73,139.5,89.6,10.29
+takestan,takestan,0,IR,80,36.07,49.7,30.2,2.24
+moron,moron,33,AR,94,-34.65,-58.62,82.4,3.36
+manokwari,manokwari,95,ID,84,-0.87,134.08,76.87,2.66
+forecariah,forecariah,55,GN,94,9.43,-13.09,71.96,2.13
+utrera,utrera,0,ES,80,37.19,-5.78,59,3.36
+saint-prosper,saint-prosper,85,CA,96,46.21,-70.48,23.92,3.33
+ulladulla,ulladulla,75,AU,63,-35.35,150.47,66.99,13.87
+sulangan,sulangan,100,PH,77,11.14,123.72,81,7.34
+visnes,visnes,90,NO,87,59.36,5.22,44.6,13.87
+marabba,marabba,69,SD,16,12.35,32.18,76.64,9.22
+riverton,riverton,40,US,87,40.52,-111.94,48.99,8.05
+novovorontsovka,novovorontsovka,99,UA,75,47.5,33.92,46.45,9.51
+domoni,domoni,92,KM,79,-12.26,44.53,83.48,8.9
+te anau,te anau,100,NZ,77,-45.42,167.72,56.61,2.77
+shagonar,shagonar,100,RU,87,51.53,92.8,2.88,1.61
+pekalongan,pekalongan,55,ID,68,-6.89,109.68,85.8,6.11
+gladstone,gladstone,90,AU,74,-23.85,151.25,80.6,13.87
+carlagan,carlagan,82,PH,73,14.97,122.05,83.37,4.21
+ugoofaaru,ugoofaaru,0,MV,62,5.67,73,82.27,4.97
+santa rosa,santa rosa,20,PH,66,14.31,121.11,90,8.05
+necochea,necochea,0,AR,77,-38.55,-58.74,63,1.99
+alpena,alpena,1,US,34,45.06,-83.43,51.8,8.05
+robertson,robertson,1,US,30,36.52,-86.87,59,8.05
+sillod,sillod,20,IN,56,20.3,75.65,69.8,4.72
+chicama,chicama,40,PE,78,-7.84,-79.15,73.4,9.17
+karakol,karakol,0,KG,47,42.49,78.39,19.98,1.74
+turukhansk,turukhansk,42,RU,80,65.82,87.98,-2.54,8.25
+talnakh,talnakh,0,RU,62,69.49,88.4,-13,2.24
+pochutla,pochutla,40,MX,83,15.74,-96.47,82.99,16.64
+novichikha,novichikha,100,RU,79,52.2,81.39,14.72,22.01
+fort nelson,fort nelson,75,CA,79,58.81,-122.7,21.2,2.24
+fort saint james,fort saint james,41,CA,93,54.43,-124.25,15.69,0.89
+kieta,kieta,84,PG,70,-6.22,155.63,84.99,2.53
+takoradi,takoradi,0,GH,90,4.88,-1.76,78.13,3.02
+bend,bend,75,US,93,44.06,-121.32,42.8,1.03
+linxia,linxia,100,CN,64,35.6,103.21,25.18,6.78
+irtyshskiy,irtyshskiy,100,RU,96,58.33,68.13,27.93,8.9
+berbera,berbera,100,SO,78,10.44,45.01,78.49,9.84
+maceio,maceio,20,BR,94,-9.67,-35.74,77,3.36
+okha,okha,100,RU,95,53.57,142.95,28.8,4.9
+ekhabi,ekhabi,100,RU,95,53.51,142.97,28.8,4.9
+shakhovskaya,shakhovskaya,86,RU,93,56.03,35.51,35.65,7.02
+port hardy,port hardy,20,CA,86,50.7,-127.42,37.4,2.24
+oistins,oistins,20,BB,69,13.07,-59.53,78.8,10.29
+guiratinga,guiratinga,73,BR,82,-16.35,-53.76,71.65,3.33
+chilca,chilca,40,PE,69,-12.52,-76.74,77,11.41
+shenjiamen,shenjiamen,100,CN,99,29.96,122.3,56.16,13.94
+kathu,kathu,20,TH,62,7.92,98.33,86,6.93
+stornoway,stornoway,31,GB,87,58.21,-6.39,35.01,3.36
+pelym,pelym,100,RU,97,61.01,62,25.9,4.52
+diffa,diffa,18,NE,7,13.32,12.61,75.51,7.67
+dingle,dingle,100,PH,69,11,122.67,85.12,6.53
+listvyanskiy,listvyanskiy,100,RU,90,54.44,83.5,17.4,17.83
+hefei,hefei,90,CN,100,31.86,117.28,50,11.18
+mgandu,mgandu,100,TZ,98,-5.95,34.13,62.01,4.9
+okhotsk,okhotsk,100,RU,78,59.38,143.3,8.4,4.14
+doka,doka,86,SD,29,13.52,35.77,70.38,5.84
+anaconda,anaconda,90,US,51,46.13,-112.94,35.6,3.36
+dire,dire,0,ML,12,12.28,-10.97,72.23,1.28
+korem,korem,6,ET,71,12.51,39.52,55.17,1.5
+sulya,sulya,20,IN,78,12.57,75.38,77,4.7
+flin flon,flin flon,100,CA,98,54.77,-101.86,-2.79,4.68
+alofi,alofi,32,NU,79,-19.06,-169.92,84.2,6.93
+voyvozh,voyvozh,0,RU,93,62.89,54.96,13.35,2.1
+erenhot,erenhot,59,CN,44,43.65,111.98,24.64,17.05
+andenes,andenes,100,NO,93,69.31,16.12,35.6,14.99
+suntar,suntar,100,RU,89,62.14,117.63,7.43,4.94
+princeton,princeton,40,US,56,25.54,-80.41,71.6,13.87
+beni mazar,beni mazar,100,EG,33,28.5,30.8,62.38,10.09
+kuandian,kuandian,100,CN,78,40.73,124.78,40.53,3.8
+dobroye,dobroye,90,RU,100,52.87,39.81,44.6,4.47
+conceicao do mato dentro,conceicao do mato dentro,82,BR,98,-19.04,-43.42,64.89,1.81
+atar,atar,100,MR,12,20.52,-13.05,74.75,7.72
+bilibino,bilibino,100,RU,74,68.05,166.44,-4.92,1.63
+harlingen,harlingen,1,US,73,26.19,-97.7,73,12.75
+lamu,lamu,100,KE,76,-2.27,40.9,83.43,7.99
+leningradskiy,leningradskiy,0,RU,78,69.38,178.42,-9.09,6.4
+hitiaa,hitiaa,20,PF,62,-17.6,-149.3,89.6,8.05
+caravelas,caravelas,100,BR,82,-17.71,-39.25,79.7,14.07
+mineiros,mineiros,0,BR,91,-17.57,-52.55,65.26,2.24
+starosubkhangulovo,starosubkhangulovo,100,RU,91,53.1,57.44,18.54,5.79
+chandur,chandur,0,IN,66,19.73,79.18,75.58,6.06
+thunder bay,thunder bay,40,CA,62,48.4,-89.32,32,11.41
+santa maria,santa maria,0,BR,43,-29.68,-53.81,73.17,6.87
+olafsvik,olafsvik,100,IS,77,64.89,-23.71,25.48,18.7
+freeport,freeport,1,US,39,40.66,-73.58,54,8.05
+radovis,radovis,100,MK,86,41.64,22.46,41,7
+lufkin,lufkin,20,US,67,31.34,-94.73,63,9.17
+edd,edd,100,ER,78,13.93,41.69,76.77,5.66
+gusinoye ozero,gusinoye ozero,100,RU,82,51.11,106.26,11.05,5.64
+pimenta bueno,pimenta bueno,99,BR,96,-11.67,-61.19,72.43,3.06
+yerbogachen,yerbogachen,100,RU,91,61.28,108.01,5.4,6.55
+galeana,galeana,100,MX,60,24.83,-100.07,59,8.99
+pangnirtung,pangnirtung,100,CA,87,66.15,-65.71,-14.71,13.33
+tabuk,tabuk,4,PH,67,17.42,121.44,85.32,7.38
+alice springs,alice springs,0,AU,23,-23.7,133.88,84.2,13.87
+scarborough,scarborough,16,GB,86,54.28,-0.4,42.01,6.93
+navur,navur,0,AM,85,40.87,45.34,40.69,0.4
+muisne,muisne,20,EC,92,0.6,-80.03,75.47,5.1
+igarka,igarka,0,RU,83,67.47,86.58,-10.17,7.54
+nouna,nouna,5,BF,8,12.73,-3.87,77.94,5.01
+lago da pedra,lago da pedra,100,BR,99,-4.33,-45.17,74.84,5.5
+wewak,wewak,100,PG,65,-3.55,143.63,86.63,13.13
+naryan-mar,naryan-mar,100,RU,92,67.67,53.09,21.11,14.29
+khislavichi,khislavichi,0,RU,91,54.19,32.16,37.71,1.72
+burley,burley,90,US,45,42.54,-113.79,44.6,4.7
+hilton head island,hilton head island,20,US,81,32.22,-80.75,57,3.36
+mayumba,mayumba,44,GA,82,-3.43,10.66,81.99,7.36
+naruja,naruja,0,GE,44,41.91,41.95,59,20.8
